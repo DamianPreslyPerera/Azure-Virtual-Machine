@@ -2,16 +2,25 @@
 
 
 # Azure Virtual Machine
-In this demonstration, I showcase how to create a virtual machine within Microsoft Azure and connect to it using remote desktop protocol. 
+
+This project provides a concise guide to setting up and connecting to a virtual machine in Microsoft Azure. Through this demonstration, users will learn to create an Azure Resource Group, configure a virtual machine, and establish a connection to it using the Remote Desktop Protocol (RDP). This project primarily focuses on the key steps required to quickly deploy and access virtual machines within the Azure cloud environment, making it an ideal starting point for those looking to harness the capabilities of Azure VMs.
+
 
 ## Environments and Technologies Used
+
 * Microsoft Azure
 * Remote Desktop
 
+
+
 ## Operating Systems Used 
+
 * Windows 10
 
+
+
 ## High-Level Steps
+
 * Create MS Azure Resource Group
 * Virtual Machine Configuration
 * Connect to Virtual Machine with Remote Desktop
