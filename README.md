@@ -1,3 +1,6 @@
+  ![1572653575_azure_vm_story](https://github.com/DamianPreslyPerera/Azure-Virtual-Machine/assets/89204562/a0dfbb3c-486c-4c48-b76b-a924e6c66ef1)
+
+
 # Azure Virtual Machine
 In this demonstration, I showcase how to create a virtual machine within Microsoft Azure and connect to it using remote desktop protocol. 
 
